@@ -17,7 +17,6 @@ Gem::Specification.new do |gem|
   
   gem.add_dependency "thor"
   gem.add_dependency "bosh_cli", "~> 1.0"
-  gem.add_dependency "bosh_common", "~> 0.5"
   
   gem.add_development_dependency "rake"
   gem.add_development_dependency "minitest", "~> 2.12"
